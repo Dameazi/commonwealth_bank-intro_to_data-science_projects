@@ -60,7 +60,7 @@ The dataset includes detailed supermarket transactions across multiple years, st
 <img width="699" height="452" alt="image" src="https://github.com/user-attachments/assets/2953ecea-e64e-4d06-8845-9c08fe0b5b1b" />
 
 **Insight:** Non-members also lead in transaction volume, while Gold members have the lowest frequency.  
-**Business Implication:** Loyalty program members (especially Gold) are less active — potential retention gap.
+**Business Implication:** Loyalty program members (especially Gold) are less active potential retention gap.
 
 ### 6. Top 10 Performing Stores
 **Chart Type:** Horizontal Bar Chart  
@@ -73,7 +73,7 @@ The dataset includes detailed supermarket transactions across multiple years, st
 <img width="1111" height="553" alt="image" src="https://github.com/user-attachments/assets/24fcca95-3dec-4376-bee8-12beffd4d645" />
 
 **Insight:** Waffles, sliced fish, eggs, roast beef, and fresh fruit juice are the most ordered items.  
-**Business Implication:** These are high-demand staples — ensure consistent stock levels.
+**Business Implication:** These are high-demand staples, ensure consistent stock levels.
 
 ### 8. Top 10 Products (Based on Revenue Generated)
 <img width="957" height="521" alt="image" src="https://github.com/user-attachments/assets/2c47c9c5-d3e6-4732-b682-dbfc8a859290" />
@@ -86,7 +86,7 @@ The dataset includes detailed supermarket transactions across multiple years, st
 
 
 **Insight:** Transactions **peak in August** and are lowest in **February**. Strong performance also seen in May, October, and December.  
-**Business Implication:** February weakness may be seasonal — ideal time for targeted promotions or surveys.
+**Business Implication:** February weakness may be seasonal, ideal time for targeted promotions or surveys.
 
 ---
 
