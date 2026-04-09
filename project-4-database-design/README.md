@@ -64,6 +64,9 @@ The database was tested by:
 * Inserting sample user and tweet data
 * Running JOIN queries to confirm relationships
 * Verifying data integrity and constraints
+* Also tested by check users that (mentioned commbank) {condition} and their type of tweets
+<img width="554" height="290" alt="image" src="https://github.com/user-attachments/assets/670489c0-4b88-4cc8-9316-c01b2eb7cfdb" />
+
 
 ### What I Learned
 
